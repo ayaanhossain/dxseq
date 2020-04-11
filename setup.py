@@ -11,10 +11,12 @@ setup(
   download_url = '',
   keywords = [],
   install_requires=[],
+
+  # Arbitrary Classification for Now
   classifiers=[
     'Development Status :: 3 - Alpha',
-    'Intended Audience :: Data Analyst',
-    'Topic :: Experimental Design and Data Analysis :: Data Analysis',
+    'Intended Audience :: Developers',
+    'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',
     'Programming Language :: Python :: 3',
     'Programming Language :: Python :: 3.5',
