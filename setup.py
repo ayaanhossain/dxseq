@@ -2,11 +2,11 @@ from distutils.core import setup
 setup(
   name = 'dxseq',
   packages = ['dxseq'],
-  version = '0.1',
+  version = '0.0',
   license='MIT',
   description = 'Massively Parallel Diagnostic Assay Design and Sequencing',
   author = 'Ayaan Hossain',
-  author_email = '',
+  author_email = 'auh57@psu.edu',
   url = 'https://github.com/ayaanhossain/dxseq',
   download_url = '',
   keywords = [],
