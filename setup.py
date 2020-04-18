@@ -4,7 +4,7 @@ setup(
   packages = ['dxseq'],
   version = '0.0',
   license='MIT',
-  description = 'Massively Parallel Diagnostic Assay Design and Sequencing',
+  description = 'Massively Parallel Diagnostic Assay Sequence Data Analysis',
   author = 'Ayaan Hossain',
   author_email = 'auh57@psu.edu',
   url = 'https://github.com/ayaanhossain/dxseq',
@@ -14,9 +14,10 @@ setup(
 
   # Arbitrary Classification for Now
   classifiers=[
-    'Development Status :: 3 - Alpha',
-    'Intended Audience :: Developers',
-    'Topic :: Software Development :: Build Tools',
+    'Development Status :: 1 - Planning',
+    'Intended Audience :: Healthcare Industry',
+    'Intended Audience :: Science/Research',
+    'Topic :: Scientific/Engineering :: Bio-Informatics',
     'License :: OSI Approved :: MIT License',
     'Programming Language :: Python :: 3',
     'Programming Language :: Python :: 3.5',

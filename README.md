@@ -1,2 +1,2 @@
 # dxseq
-Massively Parallel Diagnostic Assay Design and Sequencing
+Massively Parallel Diagnostic Assay Sequence Data Analysis
