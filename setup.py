@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'dxseq',
   packages = ['dxseq'],
-  version = '0.0',
+  version = '0.0.0',
   license='MIT',
   description = 'Massively Parallel Diagnostic Assay Sequence Data Analysis',
   author = 'Ayaan Hossain',
